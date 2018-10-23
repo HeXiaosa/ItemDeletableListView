@@ -1,0 +1,11 @@
+<resources>
+
+
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="MainTheme" parent="AppTheme">
+
+    </style>
+</resources>
